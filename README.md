@@ -3,7 +3,7 @@
 
 <img src="logo.png" width="750" style="transform: rotate(90deg)">
 
-Currently gaining corporate experience at Santander Bank working with regulatory documents, which strengthens my analytical skills and ability to translate strict business logic into reliable data automation.
+Intern at Santander Brasil Bank, working directly with regulatory documents. I have strong familiarity with numbers and economic themes, applying strict business logic to build reliable data automation.
 
 ### What I Do
 * **Backend:** Complex data extraction, web scraping, and automation using Python.
