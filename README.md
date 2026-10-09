@@ -1,7 +1,7 @@
 # Davi Coelho
 **Python & JavaScript Developer | Web Scraping & Data Dashboards**
 
-<img src="Logo.png" width="500">
+<img src="logo.png" width="500">
 
 Currently gaining corporate experience at Santander Bank working with regulatory documents, which strengthens my analytical skills and ability to translate strict business logic into reliable data automation.
 
